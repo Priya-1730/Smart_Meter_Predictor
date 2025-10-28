@@ -22,3 +22,19 @@ A real-time **Smart Meter Data Classifier** using **Naive Bayes** to identify el
 ---
 
 ## 📁 Project Structure
+---
+
+## ⚙️ Requirements
+- Python 3.x
+- pandas
+- scikit-learn
+- openpyxl
+- tkinter
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Priya-1730/Smart_Meter_Predictor.git
+
